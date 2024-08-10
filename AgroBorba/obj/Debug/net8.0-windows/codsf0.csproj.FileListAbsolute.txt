@@ -1,0 +1,51 @@
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\obj\Debug\net8.0-windows\codsf0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\obj\Debug\net8.0-windows\codsf0.AssemblyInfoInputs.cache
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\obj\Debug\net8.0-windows\codsf0.AssemblyInfo.cs
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\obj\Debug\net8.0-windows\codsf0.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\bin\Debug\net8.0-windows\codsf0.exe
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\bin\Debug\net8.0-windows\codsf0.deps.json
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\bin\Debug\net8.0-windows\codsf0.runtimeconfig.json
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\bin\Debug\net8.0-windows\codsf0.dll
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\bin\Debug\net8.0-windows\codsf0.pdb
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\obj\Debug\net8.0-windows\codsf0.csproj.AssemblyReference.cache
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\obj\Debug\net8.0-windows\codsf0.csproj.Up2Date
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\obj\Debug\net8.0-windows\codsf0.dll
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\obj\Debug\net8.0-windows\refint\codsf0.dll
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\obj\Debug\net8.0-windows\codsf0.pdb
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\obj\Debug\net8.0-windows\codsf0.genruntimeconfig.cache
+C:\Users\Cliente\Documents\Codigos\C#\codsf0\obj\Debug\net8.0-windows\ref\codsf0.dll
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\bin\Debug\net8.0-windows\codsf0.exe
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\bin\Debug\net8.0-windows\codsf0.deps.json
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\bin\Debug\net8.0-windows\codsf0.runtimeconfig.json
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\bin\Debug\net8.0-windows\codsf0.dll
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\bin\Debug\net8.0-windows\codsf0.pdb
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\obj\Debug\net8.0-windows\codsf0.csproj.AssemblyReference.cache
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\obj\Debug\net8.0-windows\codsf0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\obj\Debug\net8.0-windows\codsf0.AssemblyInfoInputs.cache
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\obj\Debug\net8.0-windows\codsf0.AssemblyInfo.cs
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\obj\Debug\net8.0-windows\codsf0.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\obj\Debug\net8.0-windows\codsf0.csproj.Up2Date
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\obj\Debug\net8.0-windows\codsf0.dll
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\obj\Debug\net8.0-windows\refint\codsf0.dll
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\obj\Debug\net8.0-windows\codsf0.pdb
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\obj\Debug\net8.0-windows\codsf0.genruntimeconfig.cache
+C:\Users\Cliente\Documents\Codigos\C#\code borba gato\obj\Debug\net8.0-windows\ref\codsf0.dll
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\bin\Debug\net8.0-windows\codsf0.exe
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\bin\Debug\net8.0-windows\codsf0.deps.json
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\bin\Debug\net8.0-windows\codsf0.runtimeconfig.json
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\bin\Debug\net8.0-windows\codsf0.dll
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\bin\Debug\net8.0-windows\codsf0.pdb
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\obj\Debug\net8.0-windows\codsf0.csproj.AssemblyReference.cache
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\obj\Debug\net8.0-windows\codsf0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\obj\Debug\net8.0-windows\codsf0.AssemblyInfoInputs.cache
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\obj\Debug\net8.0-windows\codsf0.AssemblyInfo.cs
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\obj\Debug\net8.0-windows\codsf0.csproj.CoreCompileInputs.cache
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\obj\Debug\net8.0-windows\codsf0.csproj.Up2Date
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\obj\Debug\net8.0-windows\codsf0.dll
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\obj\Debug\net8.0-windows\refint\codsf0.dll
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\obj\Debug\net8.0-windows\codsf0.pdb
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\obj\Debug\net8.0-windows\codsf0.genruntimeconfig.cache
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\code borba gato\obj\Debug\net8.0-windows\ref\codsf0.dll

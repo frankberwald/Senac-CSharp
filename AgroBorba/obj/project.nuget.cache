@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtUToYpy3pXqUunixl9A/xNZM05JtPN+/tgfK0U761AoDQZn+vq6FEtIRIPxEtEkus9OJd+7lFMXH9SXxLbMRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\franklin.berwald.ALUNOS\\OneDrive - SENAC-SC\\Área de Trabalho\\code borba gato\\codsf0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franklin.berwald.ALUNOS\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
