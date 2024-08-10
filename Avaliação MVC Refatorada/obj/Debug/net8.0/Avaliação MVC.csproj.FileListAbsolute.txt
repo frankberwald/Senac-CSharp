@@ -1,0 +1,28 @@
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.AssemblyInfoInputs.cache
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.AssemblyInfo.cs
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.csproj.CoreCompileInputs.cache
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\bin\Debug\net8.0\Avaliação MVC.exe
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\bin\Debug\net8.0\Avaliação MVC.deps.json
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\bin\Debug\net8.0\Avaliação MVC.runtimeconfig.json
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\bin\Debug\net8.0\Avaliação MVC.dll
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\bin\Debug\net8.0\Avaliação MVC.pdb
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.dll
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\obj\Debug\net8.0\refint\Avaliação MVC.dll
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.pdb
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.genruntimeconfig.cache
+C:\Users\franklin.berwald.ALUNOS\OneDrive - SENAC-SC\Área de Trabalho\Avaliação MVC\obj\Debug\net8.0\ref\Avaliação MVC.dll
+C:\Users\berwa\Desktop\Avaliação MVC\bin\Debug\net8.0\Avaliação MVC.exe
+C:\Users\berwa\Desktop\Avaliação MVC\bin\Debug\net8.0\Avaliação MVC.deps.json
+C:\Users\berwa\Desktop\Avaliação MVC\bin\Debug\net8.0\Avaliação MVC.runtimeconfig.json
+C:\Users\berwa\Desktop\Avaliação MVC\bin\Debug\net8.0\Avaliação MVC.dll
+C:\Users\berwa\Desktop\Avaliação MVC\bin\Debug\net8.0\Avaliação MVC.pdb
+C:\Users\berwa\Desktop\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berwa\Desktop\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.AssemblyInfoInputs.cache
+C:\Users\berwa\Desktop\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.AssemblyInfo.cs
+C:\Users\berwa\Desktop\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.csproj.CoreCompileInputs.cache
+C:\Users\berwa\Desktop\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.dll
+C:\Users\berwa\Desktop\Avaliação MVC\obj\Debug\net8.0\refint\Avaliação MVC.dll
+C:\Users\berwa\Desktop\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.pdb
+C:\Users\berwa\Desktop\Avaliação MVC\obj\Debug\net8.0\Avaliação MVC.genruntimeconfig.cache
+C:\Users\berwa\Desktop\Avaliação MVC\obj\Debug\net8.0\ref\Avaliação MVC.dll
